@@ -54,25 +54,25 @@ This project can be further expanded by exploring:
 
 To demonstrate the control Stable Diffusion XL offers and to illustrate my understanding of the generation process, I conducted several experiments by varying key parameters. The results highlight how these parameters can drastically alter the output.
 
-### Extreme Guidance Scale (100) - Prompt: "A vibrant abstract painting with bold colors"
+### Extreme Guidance Scale (100) 
 #### leading to over colour saturation as expected
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
 *Observation:* As seen in the image with a guidance scale of 100, the colors become highly saturated and the image can take on an unnatural or distorted appearance. This illustrates how excessively high guidance can sometimes be detrimental to image quality.
 
-### Increasing Inference Steps (leading to more clarity and detailing) - Prompt: "A detailed carving on an ancient wooden door"
+### Increasing Inference Steps (leading to more clarity and detailing) 
 #### inference_steps = 100
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20100.png)
 
 #### inference_steps = 300
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20300.png)
 
-*Observation:* Increasing the number of inference steps from 100 to 300 results in a noticeable increase in the clarity and detail of the wooden carving. The textures become more defined, and finer elements are more apparent.
+*Observation:* Increasing the number of inference steps from 100 to 300 results in a noticeable increase in the clarity and detail. The textures become more defined, and finer elements are more apparent.
 
-### Ideal Value of Guidance Scale (for following prompt more specifically) - Prompt: "A sleek, futuristic sports car parked on a city street at night"
+### Ideal Value of Guidance Scale (for following prompt more specifically) 
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
 
-*Observation:* This image, generated with a guidance scale that was found to be effective for this specific prompt, demonstrates a good balance between adhering to the "sleek, futuristic sports car" description and maintaining a natural appearance without excessive artifacts or saturation.
+*Observation:* This image, generated with a guidance scale that was found to be effective for this specific prompt.
 
 
 
