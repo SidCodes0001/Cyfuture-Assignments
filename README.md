@@ -57,10 +57,10 @@ leading to over colour saturation as expected
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
 ### Incresing Inference Steps (leading to more clarity and detailing)
-- inference_steps = 100
+#### inference_steps = 100
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20100.png)
 
-- inference_steps = 300
+#### inference_steps = 300
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20300.png)
 
 
