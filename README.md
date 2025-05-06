@@ -53,7 +53,7 @@ This project can be further expanded by exploring:
 # Effects of different parameters while generating images
 
 ### Extreme Guidance Scale(100)
-leading to over colour saturation as expected
+#### leading to over colour saturation as expected
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
 ### Incresing Inference Steps (leading to more clarity and detailing)
