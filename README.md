@@ -52,23 +52,21 @@ This project can be further expanded by exploring:
 
 # Effects of different parameters while generating images
 
-## Extreme Guidance Scale(100)
+### Extreme Guidance Scale(100)
+leading to over colour saturation as expected
 ![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
-## Incresing Inference Steps
-![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
+### Incresing Inference Steps (leading to more clarity and detailing)
+inference_steps = 100
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20100.png)
+
+inference_steps = 300
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/inference%20steps%20300.png)
 
 
 
-## Ideal value of Guidance Scale
-![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
-
-
-
-
-
-
-
+### Ideal value of Guidance Scale (for following prompt more specifically)
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
 
 
 
