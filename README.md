@@ -1,8 +1,6 @@
 # Text-to-Image Generation with Stable Diffusion XL
 
-## Overview
-
-This Jupyter Notebook (`Sidak_Cyfuture_Assignment_Text_to_Image.ipynb`) demonstrates the implementation of a text-to-image generation model using Hugging Face's Diffusers library and the powerful Stable Diffusion XL Base 1.0 model (`stabilityai/stable-diffusion-xl-base-1.0`). This project showcases the ability to translate textual descriptions into visually compelling images, highlighting key aspects of generative AI and the practical application of transformer-based models.
+In this i have implemented of a text-to-image generation model using Hugging Face's Diffusers library and the powerful Stable Diffusion XL Base 1.0 model (`stabilityai/stable-diffusion-xl-base-1.0`). This project showcases the ability to translate textual descriptions into visually compelling images, highlighting key aspects of generative AI and the practical application of transformer-based models.
 
 ## Key Features Demonstrated
 
@@ -51,6 +49,28 @@ This project can be further expanded by exploring:
 * **Fine-tuning:** Discussing the potential for fine-tuning the SDXL model on specific datasets.
 * **Performance Optimization:** Exploring techniques to speed up the inference process.
 
+
+# Effects of different parameters while generating images
+
+1. Extreme Guidance Scale(100)
+   ![Power BI Report Home](https://raw.githubusercontent.com/SidCodes0001/Cyfuture-Assignments/refs/heads/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
+
+2. Incresing Inference Steps
+
+3. Ideal value of Guidance Scale
+
+4. 
+
+
+
+
+
+
+
+
+
+
+
 ## Why This Project Demonstrates My Capabilities
 
 This project showcases my understanding of:
@@ -65,9 +85,4 @@ This project showcases my understanding of:
 
 I am eager to contribute my skills and learn more in this exciting field. Thank you for considering my application.
 
-## Contact
 
-[Your Name]
-[Your Email]
-[Your LinkedIn Profile (Optional)]
-[Your GitHub Profile (Optional)]
