@@ -52,14 +52,18 @@ This project can be further expanded by exploring:
 
 # Effects of different parameters while generating images
 
-1. Extreme Guidance Scale(100)
-   (https://raw.githubusercontent.com/SidCodes0001/Cyfuture-Assignments/refs/heads/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
+Extreme Guidance Scale(100)
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
-2. Incresing Inference Steps
+Incresing Inference Steps
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
 
-3. Ideal value of Guidance Scale
 
-4. 
+
+Ideal value of Guidance Scale
+![App Screenshot](https://github.com/SidCodes0001/Cyfuture-Assignments/blob/main/guidance%20scale%20100.png)
+
+
 
 
 
