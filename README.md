@@ -53,7 +53,7 @@ This project can be further expanded by exploring:
 # Effects of different parameters while generating images
 
 1. Extreme Guidance Scale(100)
-   ![Power BI Report Home](https://raw.githubusercontent.com/SidCodes0001/Cyfuture-Assignments/refs/heads/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
+   (https://raw.githubusercontent.com/SidCodes0001/Cyfuture-Assignments/refs/heads/main/ideal%20guidance%20scale%20and%202%20no%20of%20images.png)
 
 2. Incresing Inference Steps
 
