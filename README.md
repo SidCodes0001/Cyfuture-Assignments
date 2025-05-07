@@ -2,6 +2,8 @@
 
 In this i have implemented of a text-to-image generation model using Hugging Face's Diffusers library and the powerful Stable Diffusion XL Base 1.0 model (`stabilityai/stable-diffusion-xl-base-1.0`). This project showcases the ability to translate textual descriptions into visually compelling images, highlighting key aspects of generative AI and the practical application of transformer-based models.
 
+To see the file with images in output click this link : https://colab.research.google.com/drive/1EdcXCBVQwGqlFqufzudiq4wXY-KW1IeW?usp=sharing
+
 ## Key Features Demonstrated
 
 * **Integration with Hugging Face Diffusers:** Utilizes the efficient and user-friendly `diffusers` library for seamless interaction with pre-trained diffusion models.
